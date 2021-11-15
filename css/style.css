@@ -1,0 +1,53 @@
+
+.inicio{
+    background-color:  #aee3ec;
+    color: black;
+}
+
+.inicio2{
+    background-color: black;
+    color: white;
+}
+
+
+.margin{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+
+.margin-footer{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.bg-footer{
+    background-color: #1C1C1C;
+    color:  #696969;
+}
+
+
+.card-button {
+    width: 100%;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    padding: 1em;
+    background-color: #141A28;
+    display: flex;
+    justify-content: center;
+}
+.margem1 {
+    background: #aee3ec;
+    color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+}
+.margem2 {
+
+    color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+}
+
